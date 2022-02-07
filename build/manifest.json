@@ -1,0 +1,8 @@
+{
+  "short_name": "Emag",
+  "name": "User interface for Emag test",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
