@@ -76,8 +76,8 @@ export default class Form extends Component {
                 </Container>
                 <div>
                     <Container>
-                        {this.state.assignments.length != 0 && <div className='text-center mt-3'>
-                            <h5>The best assignment for the  couriers and orders is:</h5>
+                        {this.state.assignments.length !== 0 && <div className='text-center mt-3'>
+                           <h5>The best assignment for the  couriers and orders is:</h5>
                         </div>
                         }
                         {this.state.assignments.map((x, i) => {

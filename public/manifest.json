@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "short_name": "Courier assignment",
   "name": "User interface for Courier assignment test",
+=======
+  "short_name": "Emag",
+  "name": "User interface for Emag test",
+>>>>>>> ede1708aeea22c9cabab859321a5885f2a3181d1
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
